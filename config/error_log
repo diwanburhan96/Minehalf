@@ -1,0 +1,4 @@
+[10-Sep-2022 13:04:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gag8zd6bbcs5/minehalf.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gag8zd6bbcs5/minehalf.com/config/cache.php on line 21
